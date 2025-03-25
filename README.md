@@ -1,12 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My First Next.js Project – Time Zone Comparator</title>
-  ![Image](https://github.com/user-attachments/assets/892d4583-ea16-4f47-9e06-eb9d9d0fa6ce)
-
-![Image](https://github.com/user-attachments/assets/0668bb5b-5a48-44c2-853a-ff5e200b9298)
+    ![Image](https://github.com/user-attachments/assets/892d4583-ea16-4f47-9e06-eb9d9d0fa6ce)
+    ![Image](https://github.com/user-attachments/assets/0668bb5b-5a48-44c2-853a-ff5e200b9298)
 </head>
 <body>
     <h1>🚀 My First Next.js Project – Time Zone Comparator 🌐</h1>
@@ -39,4 +37,4 @@
     <h3>🏷 Hashtags:</h3>
     <p>#Nextjs #WebDevelopment #Freelancing #JavaScript #TailwindCSS #React #WebApp</p>
 </body>
-</html>
+

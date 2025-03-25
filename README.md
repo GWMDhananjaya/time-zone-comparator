@@ -1,11 +1,6 @@
 
-<head>
-    <title>My First Next.js Project – Time Zone Comparator</title>
-   
-</head>
 <body>
     ![Image](https://github.com/user-attachments/assets/892d4583-ea16-4f47-9e06-eb9d9d0fa6ce)
-    ![Image](https://github.com/user-attachments/assets/0668bb5b-5a48-44c2-853a-ff5e200b9298)
     <h1>🚀 My First Next.js Project – Time Zone Comparator 🌐</h1>
     <p>I’m thrilled to share my first <strong>Next.js</strong> project! 🎉</p>
     <p>As a freelancer working with clients across different time zones, scheduling meetings can be challenging. To solve this, I built a <strong>Time Zone Comparator</strong> web app.</p>

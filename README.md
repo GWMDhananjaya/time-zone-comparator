@@ -23,6 +23,6 @@
 <p>This project has not only streamlined my meeting scheduling but also allowed me to explore <strong>Next.js</strong> in a real-world application. I’m excited to use it in my freelancing journey!</p>
 
 <p>📌 <em>Looking forward to building more awesome projects like this!</em></p>
- <img src="https://github.com/user-attachments/assets/892d4583-ea16-4f47-9e06-eb9d9d0fa6ce" alt="Image" width="100" />
+ <img src="https://github.com/user-attachments/assets/892d4583-ea16-4f47-9e06-eb9d9d0fa6ce" alt="Image" width="250" />
 </body>
 
